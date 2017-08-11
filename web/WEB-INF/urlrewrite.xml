@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE urlrewrite PUBLIC "-//tuckey.org//DTD UrlRewrite 2.6//EN"
+        "http://tuckey.org/res/dtds/urlrewrite2.6.dtd">
+    <urlrewrite>
+    <rule>
+        <from>/category/(.*)/(.*).html</from>
+        <to>/web/W_pageController?category=$1&amp;id=$2</to>
+    </rule>
+    <rule>
+        <from>/u/(.*).html</from>
+        <to>/user/U_$1Controller</to>
+    </rule>
+    <rule>
+        <from>/category/(.*)</from>
+        <to>/web/W_categoryController?category=$1</to>
+    </rule>
+    <rule>
+        <from>/search/(.*)</from>
+        <to>/web/W_searchController?s=$1</to>
+    </rule>
+    <rule>
+        <from>/(.*).html</from>
+        <to>/web/W_$1Controller</to>
+    </rule>
+
+
+</urlrewrite>

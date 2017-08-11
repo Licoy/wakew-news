@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS reset */
+/*.w1060{ width:1060px; height:auto; margin:0 auto;}*/
+
+.main01 .sousuo div{
+	-webkit-border-radius: 17px;
+    -moz-border-radius: 17px;
+    -ms-border-radius:17px;
+    -o-border-radius:17px;
+	border-radius:17px;
+	}
+
+.w1100{ width:1100px; height:auto; margin:0 auto;}
+.w1096{ width:1096px; height:auto; margin:0 auto;}
+
+/*注册页面*/
+.box{ height:auto;z-index: 0;}
+.box .box_lo_reg{width:600px; height:478px;margin:60px auto 30px;}
+.box .box_lo_reg .zc{width:600px; height:408px;}
+.box .box_lo_reg .zc .bj_bai{ float:left; width:314px; height:408px; padding-left:50px; background:#FFF;}
+.box .box_lo_reg .zc .bj_bai h3{ font:18px/70px "微软雅黑", "黑体"; color:#333333; width:270px; text-align:center;}
+.box .box_lo_reg .zc .bj_right{ float:left;width:185px; height:408px; padding-left:51px; background:#f8f8f8;}
+.box_lo_reg > p{font:16px/70px "微软雅黑", "黑体"; text-align:center; color:#fff;}
+.box .box_lo_reg .zc .bj_bai .kuang_txt{ width:236px; height:32px; border:1px solid #dddddd; line-height:32px; padding-left:32px; color:#b1a9a9;  margin-bottom:10px; }
+.box .box_lo_reg .zc .bj_bai .btn_sub{ width:270px; height:33px; background:#37b5f9; font-size:14px; line-height:33px; text-align:center; border:0px; color:#fff; border-radius:3px; cursor:pointer;}
+
+.box .box_lo_reg .zc .bj_bai .phone{background:url(../images/login/zc_06.jpg) no-repeat 10px 10px;}
+.box .box_lo_reg .zc .bj_bai .email{background:url(../images/login/zc_12.jpg) no-repeat 10px 10px;}
+.box .box_lo_reg .zc .bj_bai .possword{background:url(../images/login/zc_16.jpg) no-repeat 10px 10px;}
+.box .box_lo_reg .zc .bj_bai .yanzm{background:url(../images/login/zc_19.jpg) no-repeat 10px 10px; margin-bottom:0px;}
+
+.box .box_lo_reg .zc .bj_bai .hui_kuang{ float:left; width:97px; height:31px; border:1px solid #dddddd;}
+.box .box_lo_reg .zc .bj_bai .shuaxin{ float:left; margin:0px 0 0 150px; width:14px; height:14px;}
+.box .box_lo_reg .zc .bj_bai div{ float:left; width:100%; line-height:43px;}
+.box .box_lo_reg .zc .bj_bai div input{ float:left; margin-top:15px;}
+.box .box_lo_reg .zc .bj_bai div span{ padding-left:5px;}
+.box .box_lo_reg .zc .bj_bai div .lan{ color:#19aaf8; padding-left:0px;}
+
+
+.box .box_lo_reg .zc .bj_right P { width:135px; font:12px/60px ""; color:#999999;}
+.box .box_lo_reg .zc .bj_right P a{ color:#37b5f9;}
+.box .box_lo_reg .zc .bj_right > a{ float:left; width:82px; height:28px; padding-left:51px; line-height:28px; margin-bottom:12px; border-radius:3px; }
+.box .box_lo_reg .zc .bj_right .zhuce_qq{ border:1px solid #37b5f9; color:#37b5f9; background:url(../images/login/zc_03.jpg) no-repeat 28px 7px #fff;}
+.box .box_lo_reg .zc .bj_right .zhuce_wb{ border:1px solid #f26d7e; color:#f26d7e; background:url(../images/login/zc_10.jpg) no-repeat 28px 7px #fff;}
+.box .box_lo_reg .zc .bj_right .zhuce_wx{ border:1px solid #00c800; color:#00c800; background:url(../images/login/zc_15.jpg) no-repeat 28px 7px #fff;}
+.bj_right a{
+    cursor: pointer;
+}

@@ -1,0 +1,19 @@
+@charset "UTF-8";
+#editorContent{
+    min-height:350px !important;
+}
+.float-left{
+    float: left;
+}
+.float-right{
+    float: right;
+}
+.index-img{
+    display: none;
+}
+.addCatsRow,.addNavRow,.addNavBigUrl,.addNavSmallUrl,.row_edit_user{
+    display: none;
+}
+[class*='row_edit_'],[class*='row_add_']{
+    display: none;
+}
