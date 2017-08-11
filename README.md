@@ -35,7 +35,7 @@
 
 [新闻修改界面](https://github.com/Licoy/wakew-news/blob/master/web/app/img/show-img/新闻修改界面.png?raw=true)
 
-[新闻分类列表](https://github.com/Licoy/wakew-news/blob/master/web/app/img/show-img/后台/新闻分类列表.png?raw=true)
+[新闻分类管理](https://github.com/Licoy/wakew-news/blob/master/web/app/img/show-img/后台/新闻分类管理.png?raw=true)
 
 [新闻评论列表](https://github.com/Licoy/wakew-news/blob/master/web/app/img/show-img/后台/新闻评论列表.png?raw=true)
 
