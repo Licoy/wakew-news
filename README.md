@@ -51,9 +51,4 @@
 ## 个人资料修改
 ![](https://github.com/Licoy/wakew-news/blob/master/web/app/img/show-img/后台/个人资料修改.png?raw=true "")
 # LICENSE
-> GNU GENERAL PUBLIC LICENSE
-                       Version 3, 29 June 2007
-
- Copyright (C) 2007 Free Software Foundation, Inc. [http://fsf.org/]
- Everyone is permitted to copy and distribute verbatim copies
- of this license document, but changing it is not allowed.
+[GPL-V3](https://github.com/Licoy/wakew-news/blob/master/LICENSE)
