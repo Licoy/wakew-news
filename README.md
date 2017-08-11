@@ -7,3 +7,5 @@
 - 下拉菜单 -> Select2
 - IDE -> IntelliJ IDEA
 - 头像上传 -> ajaxfileupload
+- URL重写 -> urlrewrite
+- 上传 -> Smartupload
