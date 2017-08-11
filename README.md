@@ -29,7 +29,7 @@
 
 [搜索页](https://github.com/Licoy/wakew-news/blob/master/web/app/img/show-img/首页.png?raw=true)
 # 界面预览 - 后台
-[界面预览 - 后台](https://github.com/Licoy/wakew-news/blob/master/web/app/img/show-img/后台/中户中心首页.png?raw=true)
+[中户中心首页](https://github.com/Licoy/wakew-news/blob/master/web/app/img/show-img/后台/中户中心首页.png?raw=true)
 
 [新闻列表](https://github.com/Licoy/wakew-news/blob/master/web/app/img/show-img/后台/新闻列表.png?raw=true)
 
