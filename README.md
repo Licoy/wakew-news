@@ -27,7 +27,7 @@
 
 [热搜榜](https://github.com/Licoy/wakew-news/blob/master/web/app/img/show-img/热搜榜.png?raw=true)
 
-[搜索页](https://github.com/Licoy/wakew-news/blob/master/web/app/img/show-img/首页.png?raw=true)
+[搜索页](https://github.com/Licoy/wakew-news/blob/master/web/app/img/show-img/搜索页.png?raw=true)
 # 界面预览 - 后台
 [中户中心首页](https://github.com/Licoy/wakew-news/blob/master/web/app/img/show-img/后台/中户中心首页.png?raw=true)
 
